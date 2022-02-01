@@ -1,0 +1,25 @@
+#clear{
+width:130px;
+background-color:rgba(235, 19, 19, 0.466);
+}
+#answer_style{
+    width:123px;
+    border:1.5px solid black;
+    background-color: white;
+    color:black;
+}
+.formstyle{
+    width:130px;
+    height:295px;
+    margin:auto;
+    border:2px solid black ;
+    /* padding-left:2px; */
+}
+input{
+    width:40px;
+    background-color: black;
+    color:white;
+}
+.extra{
+    width:62px;
+}
